@@ -1,0 +1,10 @@
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\bin\Debug\TestBaiTapLon.exe.config
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\bin\Debug\TestBaiTapLon.exe
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\bin\Debug\TestBaiTapLon.pdb
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.csproj.AssemblyReference.cache
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.Form1.resources
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.Properties.Resources.resources
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.csproj.GenerateResource.cache
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.csproj.CoreCompileInputs.cache
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.exe
+D:\LTrinhTrucQuan\WorkSpace\TestBaiTapLon\obj\Debug\TestBaiTapLon.pdb
